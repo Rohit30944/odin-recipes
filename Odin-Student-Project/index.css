@@ -1,0 +1,245 @@
+body {
+  background-color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  padding: 0px;
+  margin: 0px;
+}
+
+/* Css for the header starts */
+
+.MainStruct {
+  background: #1f2937;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  /* color: #fff; */
+}
+.header-Icn {
+  font-weight: 700;
+  font-size: 24px;
+  color: #f9faf8;
+}
+.HeadContent {
+  width: 70%;
+  /* border: 1px solid #fff; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Li-Content {
+  display: flex;
+  justify-content: start;
+}
+.Li-Content li {
+  text-decoration: none;
+  list-style-type: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 18px;
+  font-weight: normal;
+  color: #e5e7eb;
+}
+
+/* Css for the Header ends here  */
+
+/* Css for the section one Started */
+
+.SectionStruct {
+  width: 70%;
+  /* border: 1px solid #fff; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.Text-Side {
+  width: 50%;
+  /* border: 1px solid #fff; */
+}
+
+.Image-Side {
+  width: 50%;
+  /* border: 1px solid #fff; */
+}
+
+.HeadingTxt {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+
+.SubHeadTxt {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-top: 10px;
+}
+
+.BtnSignUp {
+  width: 120px;
+  background-color: #3882f6;
+  color: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 20px;
+  margin-top: 15px;
+  border: 1px solid #fff;
+  outline: none;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 13px 27px -5px,
+    #ffffff4d 0px 8px 16px -8px;
+}
+
+.SectionImgCls {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+/* Css for the section one ends */
+
+/*  Css for the section two starts */
+
+.MainStructTwo {
+  /* background: #1f2937; */
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  /* color: #fff; */
+}
+.SectionTwoFull {
+  width: 70%;
+  /* border: 1px solid #fff; */
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.HeadingTxtSnd {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+}
+
+.Text-SideSnd {
+  width: 100%;
+  text-align: center;
+}
+
+.Card-Side {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+.CmonCard {
+  border: 2px solid #3882f6;
+  border-radius: 10px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.CardWidhCom {
+  width: 25%;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.TextDesc {
+  font-size: 13px;
+}
+
+/*  Css for the section two ends */
+
+.MainStructThree {
+  background: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  /* color: #fff; */
+}
+
+.Text-SideTh {
+  width: 100%;
+}
+
+.HeadingTxtSntTh {
+  font-style: italic;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: lighter;
+  text-align: left;
+}
+
+.TxtalgnDesg {
+  font-size: 20px;
+  font-weight: 900;
+  color: #1f2937;
+  text-align: end;
+}
+
+/* Ends */
+
+/* Starts */
+
+.SectionStructfrth {
+  background-color: #3b82f6;
+  width: 70%;
+  /* border: 1px solid #fff; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 10px;
+}
+
+.Sctn4Heading {
+  font-size: 24px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.MainStructSec4 {
+  /* background: #1f2937; */
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  /* color: #fff; */
+}
+
+/* ends */
+
+/* footer start*/
+.FootContent {
+  /* width: 70%; */
+  /* border: 1px solid #fff; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.FootContent{
+  font-size: 20px;
+  color: #f9faf8;
+}
+
+/* footer ends */
